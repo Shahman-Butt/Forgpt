@@ -1,0 +1,19 @@
+.speedDial {
+  position: fixed;
+  right: 3vmax;
+  top: 3vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+/* .btn-outline-success {
+  border-color: #652D90 !important;
+}
+
+.btn-outline-success:hover {
+  border-color: #652D90 !important;
+  color: #652D90 !important;
+} */
